@@ -124,5 +124,4 @@ Este projeto foi criado por [izabellasouzadev67](https://github.com/izabellasouz
 
 Se este projeto foi útil para você, considere dar uma estrela ⭐, fazer um *fork* 🍴 ou abrir uma *issue* ❗.
 
----
-**<p align="center">Gerado por [ReadmeCodeGen](https://www.readmecodegen.com/)</p>**
+LINK do projeto: http://127.0.0.1:5500/lampada.html
